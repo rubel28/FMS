@@ -1,11 +1,10 @@
-![image](public/docs/.gitbook/assets/digidocu_mokup.jpg)
-# DigiDocu
-DigiDocu is a free, open source document management system built with laravel. Which provide easy way to 
+# FMS
+FMS is a free, open source document management system built with laravel. Which provide easy way to 
 manage documents with features like permissions, resize & compress images, combine multiple images into single pdf, 
 zip all files etc..
 
 ## Installation
-1. Download the latest release from [here](https://github.com/harish81/digidocu/releases) or clone repository.
+1. Clone repository.
 2. Run `composer install`.
 3. Copy & setup `.env` file.
 4. Create database & Change `DB_DATABASE` in `.env`.
@@ -30,6 +29,3 @@ zip all files etc..
 ## Licence
   - DigiDocu is primary licenced under [GPLv3 license](https://github.com/harish81/digidocu/blob/master/LICENSE).
   - For Enterprise licence contact us at [nandoliyaharish@gmail.com](mailto:nandoliyaharish@gmail.com) 
-
-## Solutions
- - For Hosted Solutions contact us at [nandoliyaharish@gmail.com](mailto:nandoliyaharish@gmail.com)
